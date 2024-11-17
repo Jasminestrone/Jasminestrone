@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MyMacroCoach
+- 👋 Hi, I’m Jasmine
 - 👀 I’m interested in the open-source community!
-- 🌱 I’m currently learning app development.
-- 💞️ I’m looking to collaborate on EVERYTHING
-- 📫 How to reach me discord, @jazz.me
-- 😄 Pronouns: She./Her
-- ⚡ Fun fact: I'm Skibeautiful <3
+- 🌱 I’m currently learning React Native & Node.js.
+- 💞️ I’m looking to collaborate on My Macro Coach
+- 📫 How to reach me, DM my discord [@jazz.me](https://discord.com/users/725838709445886094) or join our public [discord](https://discord.gg/BUc4ZBJjF5)!
+- 😄 Pronouns: She/Her
+- Have an amazing day!
 
 <!---
 MyMacroCoach/MyMacroCoach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
