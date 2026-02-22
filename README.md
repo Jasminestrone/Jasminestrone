@@ -1,12 +1,17 @@
 <h1 align="center">Hello! I'm Jasmine</h1>
-<h3 align="center">A passionate mechanical engineer</h3>
+<h3 align="center">A passionate mechanical engineer, graduating highschool 2026 at 16 years old</h3>
 
-- 🔭 I’m currently working on my high school **Capstone project** about encouraging boredom in Gen Z
+- 🔭 I’m currently working on **Capstone project on educating about and encouraging boredom**
 
 - 🌱 I’m currently learning **Neuroscience of boredom, the brains Default Mode Network, and why boredom is so important**
 
+- 🤝 I’m looking for advise on **My capstone project from behavioral scientists or neuroscientists**
+
+- 👨‍💻 All of my capstone notes are available at [https://jasminestrone.github.io/capstone-notes](https://jasminestrone.github.io/capstone-notes)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jasmine-horowitz-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmine-horowitz-engineer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
